@@ -1,0 +1,23 @@
+{
+	"name": "com.ventilgames.pipe",
+	"version": "0.0.1",
+	"displayName": "Pipe",
+	"description": "Game development framework for Unity.",
+	"unity": "2020.3",
+	"unityRelease": "14f1",
+	"documentationUrl": "https://github.com/ventilgames/pipe",
+	"changelogUrl": "https://github.com/ventilgames/pipe",
+	"licensesUrl": "https://github.com/ventilgames/pipe",
+	"keywords": [
+		"pipe",
+		"ventil",
+		"games",
+		"framework",
+		"game"
+	],
+	"author": {
+		"name": "Ventil Games",
+		"email": "ventilgs@gmail.com",
+		"url": "https://github.com/ventilgames"
+	}
+}
