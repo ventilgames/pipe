@@ -7,8 +7,6 @@ public class GameDataTest : MonoBehaviour
     private void OnEnable()
     {
         _data.Load();
-
-        Debug.Log(_data.Coins);
     }
 
     private void OnDisable()
