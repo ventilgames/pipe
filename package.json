@@ -1,6 +1,6 @@
 {
 	"name": "com.ventilgames.pipe",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"displayName": "Pipe",
 	"description": "Game development framework for Unity.",
 	"unity": "2020.3",

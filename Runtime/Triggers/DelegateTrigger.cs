@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace VentilGames
+namespace VentilGames.Triggers
 {
     [RequireComponent(typeof(Collider))]
     public class DelegateTrigger : MonoBehaviour
