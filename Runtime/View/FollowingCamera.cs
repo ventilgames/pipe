@@ -4,7 +4,7 @@ namespace VentilGames.View
 {
     public class FollowingCamera : MonoBehaviour
     {
-        public Transform Target;
+        public Transform Target { get; set; }
 
         [SerializeField, Tooltip("Automatically calculate starting offset")] private bool _autoOffset = false;
 
