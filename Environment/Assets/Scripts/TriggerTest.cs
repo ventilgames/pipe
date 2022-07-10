@@ -1,6 +1,6 @@
 using UnityEngine;
 
-using VentilGames;
+using VentilGames.Triggers;
 
 public class TriggerTest : MonoBehaviour
 {

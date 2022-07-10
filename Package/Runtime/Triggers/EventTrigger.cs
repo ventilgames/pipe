@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.Events;
 
-namespace VentilGames
+namespace VentilGames.Triggers
 {
     [RequireComponent(typeof(Collider))]
     public class EventTrigger : MonoBehaviour
